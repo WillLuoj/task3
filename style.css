@@ -1,0 +1,61 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    background-color: #68cdd5;
+    font-size:62.5%;<!--简化font-size的换算，1em=10px -->
+}
+.btn {
+    width:15%;
+    padding:3%;
+}
+.btn>img {
+    width:60%;
+    max-width:54px;
+    margin:0 auto;
+}
+.logo {
+    width:100%;
+    margin:4% 0;
+}
+.logo>img {
+    width:40%;
+    max-width:244px;
+    display: block;
+    margin:0 auto;
+}
+.main p {
+    width:70%;
+    font: 1.2rem "Microsoft YaHei"  ;
+    color:white;
+    text-align: justify;
+    margin:12% auto;
+    line-height:1.8rem;
+}
+.ft1 {
+    float:left;
+    width:22%;
+    margin:16% auto 16% 14%;
+}
+.footer {
+    margin:16% auto;
+    overflow: hidden;
+}
+.footer img {
+    width:60%;
+    display: block;
+    max-width:84px;
+    margin:0 auto;
+}
+.ft2 {
+    float: right;
+    width:22%;
+    margin:16% 14% 16% auto;
+}
+.footer p {
+    text-align: center;
+    font: 1rem "Microsoft YaHei";
+    line-height: 2.1rem;
+    color: white;
+}
