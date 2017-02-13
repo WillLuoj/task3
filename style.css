@@ -36,26 +36,24 @@ html,body {
     margin:13% auto;
     line-height:1.8;
 }
+.footer {
+    overflow: hidden;
+}
 .ft1 {
     float:left;
     width:50%;
     margin-top:14%;
-
-}
-.footer {
-    overflow: hidden;
-}
-
-.footer img {
-    width:60%;
-    display: block;
-    max-width:84px;
-    margin:0 auto;
 }
 .ft2 {
     float: right;
     width:50%;
     margin-top:15%;
+}
+.footer img {
+    width:60%;
+    display: block;
+    max-width:84px;
+    margin:0 auto;
 }
 .footer p {
     text-align: center;
